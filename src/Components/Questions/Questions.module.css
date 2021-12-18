@@ -1,0 +1,21 @@
+
+.wrapper{
+    padding:  10px 10px;
+    background-color: bisque;
+    margin-top: 20px;
+}
+.owner{
+    font-size: 14px;
+}
+.question{
+    font-size: 18px;
+    margin-top: 5px;
+}
+.date{
+    display: flex;
+    justify-content: flex-end;
+}
+.textContainer{
+    display: flex;
+    align-items: center;
+}
